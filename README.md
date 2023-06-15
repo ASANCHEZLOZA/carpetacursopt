@@ -1,0 +1,2 @@
+# carpetacursopt
+curso python
